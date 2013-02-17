@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppHarborAuthenticator.WinRT", "AppHarborAuthenticator.WinRT\AppHarborAuthenticator.WinRT.csproj", "{D866B495-1953-410F-91EB-362B22F6ED97}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppHarbor.WinRT", "AppHarbor.WinRT\AppHarbor.WinRT.csproj", "{D866B495-1953-410F-91EB-362B22F6ED97}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppHarbor.WinRT.Sample", "AppHarbor.WinRT.Sample\AppHarbor.WinRT.Sample.csproj", "{DABA9972-07BB-4CC6-8ADA-4DC77FDCDD96}"
 EndProject

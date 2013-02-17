@@ -9,8 +9,8 @@
     <ProjectGuid>{D866B495-1953-410F-91EB-362B22F6ED97}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AppHarborAuthenticator.WinRT</RootNamespace>
-    <AssemblyName>AppHarborAuthenticator.WinRT</AssemblyName>
+    <RootNamespace>AppHarbor.WinRT</RootNamespace>
+    <AssemblyName>AppHarbor.WinRT</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{BC8A1FFA-BEE3-4634-8014-F334798102B3};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
