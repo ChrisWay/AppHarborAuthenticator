@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppHarborAuthenticator.WinRT", "AppHarborAuthenticator.WinRT\AppHarborAuthenticator.WinRT.csproj", "{D866B495-1953-410F-91EB-362B22F6ED97}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppHarbor.WinRT.Sample", "AppHarbor.WinRT.Sample\AppHarbor.WinRT.Sample.csproj", "{DABA9972-07BB-4CC6-8ADA-4DC77FDCDD96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,30 @@ Global
 		{D866B495-1953-410F-91EB-362B22F6ED97}.Release|x64.Build.0 = Release|x64
 		{D866B495-1953-410F-91EB-362B22F6ED97}.Release|x86.ActiveCfg = Release|x86
 		{D866B495-1953-410F-91EB-362B22F6ED97}.Release|x86.Build.0 = Release|x86
+		{DABA9972-07BB-4CC6-8ADA-4DC77FDCDD96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DABA9972-07BB-4CC6-8ADA-4DC77FDCDD96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DABA9972-07BB-4CC6-8ADA-4DC77FDCDD96}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DABA9972-07BB-4CC6-8ADA-4DC77FDCDD96}.Debug|ARM.ActiveCfg = Debug|ARM
+		{DABA9972-07BB-4CC6-8ADA-4DC77FDCDD96}.Debug|ARM.Build.0 = Debug|ARM
+		{DABA9972-07BB-4CC6-8ADA-4DC77FDCDD96}.Debug|ARM.Deploy.0 = Debug|ARM
+		{DABA9972-07BB-4CC6-8ADA-4DC77FDCDD96}.Debug|x64.ActiveCfg = Debug|x64
+		{DABA9972-07BB-4CC6-8ADA-4DC77FDCDD96}.Debug|x64.Build.0 = Debug|x64
+		{DABA9972-07BB-4CC6-8ADA-4DC77FDCDD96}.Debug|x64.Deploy.0 = Debug|x64
+		{DABA9972-07BB-4CC6-8ADA-4DC77FDCDD96}.Debug|x86.ActiveCfg = Debug|x86
+		{DABA9972-07BB-4CC6-8ADA-4DC77FDCDD96}.Debug|x86.Build.0 = Debug|x86
+		{DABA9972-07BB-4CC6-8ADA-4DC77FDCDD96}.Debug|x86.Deploy.0 = Debug|x86
+		{DABA9972-07BB-4CC6-8ADA-4DC77FDCDD96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DABA9972-07BB-4CC6-8ADA-4DC77FDCDD96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DABA9972-07BB-4CC6-8ADA-4DC77FDCDD96}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{DABA9972-07BB-4CC6-8ADA-4DC77FDCDD96}.Release|ARM.ActiveCfg = Release|ARM
+		{DABA9972-07BB-4CC6-8ADA-4DC77FDCDD96}.Release|ARM.Build.0 = Release|ARM
+		{DABA9972-07BB-4CC6-8ADA-4DC77FDCDD96}.Release|ARM.Deploy.0 = Release|ARM
+		{DABA9972-07BB-4CC6-8ADA-4DC77FDCDD96}.Release|x64.ActiveCfg = Release|x64
+		{DABA9972-07BB-4CC6-8ADA-4DC77FDCDD96}.Release|x64.Build.0 = Release|x64
+		{DABA9972-07BB-4CC6-8ADA-4DC77FDCDD96}.Release|x64.Deploy.0 = Release|x64
+		{DABA9972-07BB-4CC6-8ADA-4DC77FDCDD96}.Release|x86.ActiveCfg = Release|x86
+		{DABA9972-07BB-4CC6-8ADA-4DC77FDCDD96}.Release|x86.Build.0 = Release|x86
+		{DABA9972-07BB-4CC6-8ADA-4DC77FDCDD96}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
